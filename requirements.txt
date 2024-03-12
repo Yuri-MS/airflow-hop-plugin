@@ -1,0 +1,12 @@
+apache-airflow==2.8.0
+apache-airflow-providers-sqlite==2.0.1
+xmltodict
+sqlalchemy<2.0,>=1.4.28
+setuptools-git-version
+beautifulsoup4
+lxml
+
+# dev
+pytest
+pytest-cov
+twine

@@ -1,0 +1,13 @@
+{
+  "metadataBaseFolder" : "${PROJECT_HOME}/metadata",
+  "unitTestsBasePath" : "${PROJECT_HOME}",
+  "dataSetsCsvFolder" : "${PROJECT_HOME}/datasets",
+  "enforcingExecutionInHome" : true,
+  "config" : {
+    "variables" : [ {
+      "name" : "TESTING_VARIABLE",
+      "value" : "42",
+      "description" : "This is a simple Test"
+    } ]
+  }
+}
